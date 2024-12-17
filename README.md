@@ -3,6 +3,8 @@
 ## Overview
 MosaicRegistry is a smart contract that acts as an on-chain registry for all contracts deployed through the Mosaic platform. It provides transparency and traceability for every contract created using Mosaic's visual builder and AI generator.
 
+### [Deployed Smart Contract](https://sepolia.mantlescan.xyz/address/0x9Ee74B5CdA611323cfF472Ee66de9884E2a54cc6)
+
 ## Purpose
 - **Deployment Tracking**: Records every contract deployment with metadata including deployer address, contract type, and timestamp
 - **Verification System**: Enables contract verification status tracking
